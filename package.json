@@ -11,7 +11,8 @@
     "firebase-tools": "^7.13.1",
     "googleapis": "^47.0.0",
     "mdbreact": "^4.25.0",
-    "moment": "^2.24.0",
+    "moment": "2.24.0",
+    "moment-timezone": "^0.5.28",
     "nivo": "^0.31.0",
     "prop-types": "^15.7.2",
     "react": "^16.11.0",
@@ -25,6 +26,9 @@
     "react-timer": "^1.1.1",
     "recompose": "^0.30.0",
     "styled-components": "^5.1.0"
+  },
+  "resolutions": {
+    "moment": "2.24.0"
   },
   "scripts": {
     "start": "react-scripts start",
